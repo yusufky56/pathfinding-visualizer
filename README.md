@@ -71,3 +71,7 @@ pytest
 ```
 
 The tests check that every algorithm returns a valid path, that BFS, Dijkstra and A\* agree on the shortest length, that weighted search avoids expensive cells, that A\* expands fewer nodes than Dijkstra, and that generated mazes are always solvable.
+
+## License
+
+[MIT](LICENSE)
